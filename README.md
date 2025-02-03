@@ -57,5 +57,5 @@ ______________________________________________________
 Fork the repo, make improvements and submit a pull request.
 _______________________________________________________
 ## **Hire Python Developers**
-Looking for Django experts? [Hire Python Developers](https://hng.tech/hire/python-developer)
+Looking for Django experts? [Hire Python Developers](https://hng.tech/hire/python-developers)
 _______________________________________________________
