@@ -11,19 +11,20 @@ _____________________________________________________
 git clone
 https://github.com/TemidayoE/task0.git
 cd basic_api
-
+```
 2. Create a venv & Install dependencies
 ```
 python -m venv venv
 source venv/bin/activate
 
 pip install -r requirements.txt
-
+```
 3. Run Database migrations
 ```
 python manage.py migrate
-
+```
 4. Start the development server
 ```
 python manage.py runserver
+```
 _____________________________________________________
